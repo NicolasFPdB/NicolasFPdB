@@ -5,12 +5,6 @@
 Olá, sou o Nicolas, tenho 16 anos e atualmente estudo Desenvolvimento de Sistemas na Etec Raposo Tavares. Estou aprimorando e expandindo meus conhecimentos técnicos por meio de projetos de impacto em competições reais, como hackathons e feiras tecnológicas, com a finalidade de me tornar um profissional de destaque na área de tecnologia.
 
 <p align="left">
-    <a href="https://github.com/NicolasFPdB?tab=repositories&sort=stargazers">
-        <img 
-            alt="Repositórios" 
-            title="Meus Repositórios" 
-            src="https://custom-icon-badges.demolab.com/github/repos/NicolasFPdB?color=blue&style=for-the-badge&logo=repo&label=Repositórios"
-        />
     </a>
     <a href="https://www.linkedin.com/in/nicolas-fpdb/">
         <img 
