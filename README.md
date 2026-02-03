@@ -89,7 +89,8 @@ Olá, sou o Nicolas, tenho 16 anos e atualmente estudo Desenvolvimento de Sistem
 
 ### 📊 Estatísticas
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasFPdB&show_icons=true&theme=dark&locale=pt-br)
+## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFPdB&layout=donut&locale=pt-br&langs_count=7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasFPdB&show_icons=true&theme=dracula)
 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFPdB&layout=compact&theme=dracula)
