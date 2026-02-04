@@ -82,13 +82,3 @@ Olá, sou o Nicolas, tenho 16 anos e atualmente estudo Desenvolvimento de Sistem
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
-
-<br/>
-
----
-
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasFPdB&show_icons=true&theme=dracula)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFPdB&layout=compact&theme=dracula)
