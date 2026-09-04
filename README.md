@@ -60,11 +60,11 @@ Olá, sou o Nicolas, tenho 16 anos e atualmente estudo Desenvolvimento de Sistem
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="PHP"
+    title="PHP" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
